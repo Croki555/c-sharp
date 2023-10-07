@@ -1,0 +1,7 @@
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Calculate3\Calculate3\bin\Debug\Calculate3.exe
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Calculate3\Calculate3\bin\Debug\Calculate3.pdb
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Calculate3\Calculate3\obj\Debug\Calculate3.csproj.AssemblyReference.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Calculate3\Calculate3\obj\Debug\Calculate3.csproj.SuggestedBindingRedirects.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Calculate3\Calculate3\obj\Debug\Calculate3.csproj.CoreCompileInputs.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Calculate3\Calculate3\obj\Debug\Calculate3.exe
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Calculate3\Calculate3\obj\Debug\Calculate3.pdb

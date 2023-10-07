@@ -1,0 +1,7 @@
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Lesson9\Lesson9\bin\Debug\Lesson9.exe
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Lesson9\Lesson9\bin\Debug\Lesson9.pdb
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Lesson9\Lesson9\obj\Debug\Lesson9.csproj.AssemblyReference.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Lesson9\Lesson9\obj\Debug\Lesson9.csproj.SuggestedBindingRedirects.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Lesson9\Lesson9\obj\Debug\Lesson9.csproj.CoreCompileInputs.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Lesson9\Lesson9\obj\Debug\Lesson9.exe
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Lesson9\Lesson9\obj\Debug\Lesson9.pdb

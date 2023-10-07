@@ -1,0 +1,7 @@
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Lesoon12\Lesoon12\bin\Debug\Lesoon12.exe
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Lesoon12\Lesoon12\bin\Debug\Lesoon12.pdb
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Lesoon12\Lesoon12\obj\Debug\Lesoon12.csproj.AssemblyReference.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Lesoon12\Lesoon12\obj\Debug\Lesoon12.csproj.SuggestedBindingRedirects.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Lesoon12\Lesoon12\obj\Debug\Lesoon12.csproj.CoreCompileInputs.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Lesoon12\Lesoon12\obj\Debug\Lesoon12.exe
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Lesoon12\Lesoon12\obj\Debug\Lesoon12.pdb

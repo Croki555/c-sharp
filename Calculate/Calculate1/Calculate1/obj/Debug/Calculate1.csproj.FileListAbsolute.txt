@@ -1,0 +1,14 @@
+C:\Users\sokol\RiderProjects\Calculate1\Calculate1\obj\Debug\Calculate1.csproj.AssemblyReference.cache
+C:\Users\sokol\RiderProjects\Calculate1\Calculate1\obj\Debug\Calculate1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sokol\RiderProjects\Calculate1\Calculate1\obj\Debug\Calculate1.csproj.CoreCompileInputs.cache
+C:\Users\sokol\RiderProjects\Calculate1\Calculate1\bin\Debug\Calculate1.exe
+C:\Users\sokol\RiderProjects\Calculate1\Calculate1\bin\Debug\Calculate1.pdb
+C:\Users\sokol\RiderProjects\Calculate1\Calculate1\obj\Debug\Calculate1.exe
+C:\Users\sokol\RiderProjects\Calculate1\Calculate1\obj\Debug\Calculate1.pdb
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Calculate1\Calculate1\bin\Debug\Calculate1.exe
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Calculate1\Calculate1\bin\Debug\Calculate1.pdb
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Calculate1\Calculate1\obj\Debug\Calculate1.csproj.AssemblyReference.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Calculate1\Calculate1\obj\Debug\Calculate1.csproj.SuggestedBindingRedirects.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Calculate1\Calculate1\obj\Debug\Calculate1.csproj.CoreCompileInputs.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Calculate1\Calculate1\obj\Debug\Calculate1.exe
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Calculate1\Calculate1\obj\Debug\Calculate1.pdb

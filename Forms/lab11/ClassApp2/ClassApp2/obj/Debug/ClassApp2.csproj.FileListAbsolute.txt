@@ -1,0 +1,11 @@
+C:\Users\sokol\RiderProjects\Forms\lab11\ClassApp2\ClassApp2\bin\Debug\ClassApp2.exe.config
+C:\Users\sokol\RiderProjects\Forms\lab11\ClassApp2\ClassApp2\bin\Debug\ClassApp2.exe
+C:\Users\sokol\RiderProjects\Forms\lab11\ClassApp2\ClassApp2\bin\Debug\ClassApp2.pdb
+C:\Users\sokol\RiderProjects\Forms\lab11\ClassApp2\ClassApp2\obj\Debug\ClassApp2.csproj.AssemblyReference.cache
+C:\Users\sokol\RiderProjects\Forms\lab11\ClassApp2\ClassApp2\obj\Debug\ClassApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sokol\RiderProjects\Forms\lab11\ClassApp2\ClassApp2\obj\Debug\ClassApp2.Form1.resources
+C:\Users\sokol\RiderProjects\Forms\lab11\ClassApp2\ClassApp2\obj\Debug\ClassApp2.Properties.Resources.resources
+C:\Users\sokol\RiderProjects\Forms\lab11\ClassApp2\ClassApp2\obj\Debug\ClassApp2.csproj.GenerateResource.cache
+C:\Users\sokol\RiderProjects\Forms\lab11\ClassApp2\ClassApp2\obj\Debug\ClassApp2.csproj.CoreCompileInputs.cache
+C:\Users\sokol\RiderProjects\Forms\lab11\ClassApp2\ClassApp2\obj\Debug\ClassApp2.exe
+C:\Users\sokol\RiderProjects\Forms\lab11\ClassApp2\ClassApp2\obj\Debug\ClassApp2.pdb

@@ -1,0 +1,7 @@
+C:\Users\sokol\RiderProjects\Homework\LESS\Less6\Less6\bin\Debug\Less6.exe
+C:\Users\sokol\RiderProjects\Homework\LESS\Less6\Less6\bin\Debug\Less6.pdb
+C:\Users\sokol\RiderProjects\Homework\LESS\Less6\Less6\obj\Debug\Less6.csproj.AssemblyReference.cache
+C:\Users\sokol\RiderProjects\Homework\LESS\Less6\Less6\obj\Debug\Less6.csproj.SuggestedBindingRedirects.cache
+C:\Users\sokol\RiderProjects\Homework\LESS\Less6\Less6\obj\Debug\Less6.csproj.CoreCompileInputs.cache
+C:\Users\sokol\RiderProjects\Homework\LESS\Less6\Less6\obj\Debug\Less6.exe
+C:\Users\sokol\RiderProjects\Homework\LESS\Less6\Less6\obj\Debug\Less6.pdb

@@ -1,0 +1,16 @@
+E:\RiderProjects\Lesson2\1\1\bin\Debug\net5.0\1.exe
+E:\RiderProjects\Lesson2\1\1\bin\Debug\net5.0\1.deps.json
+E:\RiderProjects\Lesson2\1\1\bin\Debug\net5.0\1.runtimeconfig.json
+E:\RiderProjects\Lesson2\1\1\bin\Debug\net5.0\1.runtimeconfig.dev.json
+E:\RiderProjects\Lesson2\1\1\bin\Debug\net5.0\1.dll
+E:\RiderProjects\Lesson2\1\1\bin\Debug\net5.0\ref\1.dll
+E:\RiderProjects\Lesson2\1\1\bin\Debug\net5.0\1.pdb
+E:\RiderProjects\Lesson2\1\1\obj\Debug\net5.0\1.csprojAssemblyReference.cache
+E:\RiderProjects\Lesson2\1\1\obj\Debug\net5.0\1.GeneratedMSBuildEditorConfig.editorconfig
+E:\RiderProjects\Lesson2\1\1\obj\Debug\net5.0\1.AssemblyInfoInputs.cache
+E:\RiderProjects\Lesson2\1\1\obj\Debug\net5.0\1.AssemblyInfo.cs
+E:\RiderProjects\Lesson2\1\1\obj\Debug\net5.0\1.csproj.CoreCompileInputs.cache
+E:\RiderProjects\Lesson2\1\1\obj\Debug\net5.0\1.dll
+E:\RiderProjects\Lesson2\1\1\obj\Debug\net5.0\ref\1.dll
+E:\RiderProjects\Lesson2\1\1\obj\Debug\net5.0\1.pdb
+E:\RiderProjects\Lesson2\1\1\obj\Debug\net5.0\1.genruntimeconfig.cache

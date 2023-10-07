@@ -1,0 +1,14 @@
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Less1\Less1\bin\Debug\Less1.exe
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Less1\Less1\bin\Debug\Less1.pdb
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Less1\Less1\obj\Debug\Less1.csproj.AssemblyReference.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Less1\Less1\obj\Debug\Less1.csproj.SuggestedBindingRedirects.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Less1\Less1\obj\Debug\Less1.csproj.CoreCompileInputs.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Less1\Less1\obj\Debug\Less1.exe
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Homework\Less1\Less1\obj\Debug\Less1.pdb
+C:\Users\sokol\RiderProjects\Homework\Less1\Less1\obj\Debug\Less1.exe
+C:\Users\sokol\RiderProjects\Homework\Less1\Less1\obj\Debug\Less1.pdb
+C:\Users\sokol\RiderProjects\Homework\Less1\Less1\bin\Debug\Less1.exe
+C:\Users\sokol\RiderProjects\Homework\Less1\Less1\bin\Debug\Less1.pdb
+C:\Users\sokol\RiderProjects\Homework\Less1\Less1\obj\Debug\Less1.csproj.AssemblyReference.cache
+C:\Users\sokol\RiderProjects\Homework\Less1\Less1\obj\Debug\Less1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sokol\RiderProjects\Homework\Less1\Less1\obj\Debug\Less1.csproj.CoreCompileInputs.cache

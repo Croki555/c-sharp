@@ -1,0 +1,7 @@
+C:\Users\sokol\RiderProjects\Homework\LESS\Less4\Less4\bin\Debug\Less4.exe
+C:\Users\sokol\RiderProjects\Homework\LESS\Less4\Less4\bin\Debug\Less4.pdb
+C:\Users\sokol\RiderProjects\Homework\LESS\Less4\Less4\obj\Debug\Less4.csproj.AssemblyReference.cache
+C:\Users\sokol\RiderProjects\Homework\LESS\Less4\Less4\obj\Debug\Less4.csproj.SuggestedBindingRedirects.cache
+C:\Users\sokol\RiderProjects\Homework\LESS\Less4\Less4\obj\Debug\Less4.csproj.CoreCompileInputs.cache
+C:\Users\sokol\RiderProjects\Homework\LESS\Less4\Less4\obj\Debug\Less4.exe
+C:\Users\sokol\RiderProjects\Homework\LESS\Less4\Less4\obj\Debug\Less4.pdb

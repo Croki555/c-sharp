@@ -1,0 +1,7 @@
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Notebook\Notebook\obj\Debug\Notebook.csproj.AssemblyReference.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Notebook\Notebook\obj\Debug\Notebook.csproj.SuggestedBindingRedirects.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Notebook\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Notebook\Notebook\bin\Debug\Notebook.exe
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Notebook\Notebook\bin\Debug\Notebook.pdb
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Notebook\Notebook\obj\Debug\Notebook.exe
+C:\Program Files\JetBrains\JetBrains Rider 2021.3.2\RiderProjects\Notebook\Notebook\obj\Debug\Notebook.pdb

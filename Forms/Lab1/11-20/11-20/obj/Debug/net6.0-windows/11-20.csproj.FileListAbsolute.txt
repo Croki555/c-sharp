@@ -1,0 +1,17 @@
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\bin\Debug\net6.0-windows\11-20.exe
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\bin\Debug\net6.0-windows\11-20.deps.json
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\bin\Debug\net6.0-windows\11-20.runtimeconfig.json
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\bin\Debug\net6.0-windows\11-20.dll
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\bin\Debug\net6.0-windows\11-20.pdb
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\obj\Debug\net6.0-windows\11-20.csproj.AssemblyReference.cache
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\obj\Debug\net6.0-windows\_11_20.Form1.resources
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\obj\Debug\net6.0-windows\11-20.csproj.GenerateResource.cache
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\obj\Debug\net6.0-windows\11-20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\obj\Debug\net6.0-windows\11-20.AssemblyInfoInputs.cache
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\obj\Debug\net6.0-windows\11-20.AssemblyInfo.cs
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\obj\Debug\net6.0-windows\11-20.csproj.CoreCompileInputs.cache
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\obj\Debug\net6.0-windows\11-20.dll
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\obj\Debug\net6.0-windows\refint\11-20.dll
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\obj\Debug\net6.0-windows\11-20.pdb
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\obj\Debug\net6.0-windows\11-20.genruntimeconfig.cache
+C:\Users\sokol\RiderProjects\Forms\Lab1\11-20\11-20\obj\Debug\net6.0-windows\ref\11-20.dll
